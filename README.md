@@ -10,3 +10,9 @@ On this GitHub, I share my learning progress and projects.
 - 🐈🐈🐈🐈　four cats.
 - Favorite quote: ***"Simple is the best."*** 
 
+## Want to know more?
+
+If you’re interested in my learning journey and projects, check out my repositories:
+
+- **daily-learning-log**: My path to becoming a software engineer
+- **coding-challenges**: Solutions to coding problems and algorithm practice
